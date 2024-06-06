@@ -1,0 +1,4 @@
+Documentation :
+https://pypdf2.readthedocs.io/en/3.x/index.html
+https://konfuzio.com/fr/pypdf2/
+https://pypi.org/project/PyPDF2/
